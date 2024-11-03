@@ -43,10 +43,10 @@
 
 
 ## GitHub Stats:
-
 <div align="center">
-<a href="https://github.com/AayushKawadia”>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushKawadia&theme=2077" alt=“Aayush-Kawadia” /></p>
+<a href="https://github.com/AayushKawadia">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AayushKawadia&theme=2077" alt="AayushKawadia" /></p>
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AayushKawadia&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AayushKawadia&theme=2077" height="180em" />
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushKawadia&theme=2077" height="180em" /> -->
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushKawadia&theme=2077" height="180em" />
