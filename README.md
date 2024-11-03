@@ -41,6 +41,8 @@
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFAA00.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
 
 
+## GitHub Stats:
+
 <div align="center">
 <a href="https://github.com/AayushKawadia">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AayushKawadia&label=Profile%20views&color=0e75b6&style=flat" alt="AayushKawadiahttp://github-profile-summary-cards.vercel.app/api/cards/stats?username=AayushKawadia&theme=2077" height="180em" /> -->
