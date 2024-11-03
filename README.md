@@ -1,4 +1,5 @@
-# Hi there! 👋
+<h1 align="center">Hello I am Aayush Kawadia <🤠/></h1>
+<h3 align="center">Coder and Entreprenur</h3>
 
 ## 💫 About Me:
 - 🔭 I’m Aayush Kawadia, currently focusing on Web Development and building impactful projects.
