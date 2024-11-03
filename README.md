@@ -22,6 +22,25 @@
 </a>
 
 
+
+## 💻 Technologies:
+
+[![C](https://img.shields.io/badge/C-%2300598B.svg?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Core Java](https://img.shields.io/badge/Core%20Java-%23F89820.svg?logo=java&logoColor=white)](https://en.wikipedia.org/wiki/Java_(programming_language))
+[![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML)
+[![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![Vanilla JavaScript](https://img.shields.io/badge/Vanilla%20JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![SQL](https://img.shields.io/badge/SQL-%234F5B93.svg?logo=postgresql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7A.svg?logo=bootstrap&logoColor=white)](https://en.wikipedia.org/wiki/Bootstrap_(front-end_framework))
+[![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?logo=numpy&logoColor=white)](https://en.wikipedia.org/wiki/NumPy)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-%233B8EB8.svg?logo=matplotlib&logoColor=white)](https://en.wikipedia.org/wiki/Matplotlib)
+[![Seaborn](https://img.shields.io/badge/Seaborn-%23E5734A.svg?logo=seaborn&logoColor=white)](https://en.wikipedia.org/wiki/Seaborn)
+[![Pandas](https://img.shields.io/badge/Pandas-%23121011.svg?logo=pandas&logoColor=white)](https://en.wikipedia.org/wiki/Pandas_(software))
+[![Power BI](https://img.shields.io/badge/Power%20BI-%23F25028.svg?logo=microsoft-powerbi&logoColor=white)](https://en.wikipedia.org/wiki/Power_BI)
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-%23FFAA00.svg?logo=googlecolab&logoColor=white)](https://colab.research.google.com/)
+
+
 <div align="center">
 <a href="https://github.com/AayushKawadia">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AayushKawadia&label=Profile%20views&color=0e75b6&style=flat" alt="AayushKawadiahttp://github-profile-summary-cards.vercel.app/api/cards/stats?username=AayushKawadia&theme=2077" height="180em" /> -->
