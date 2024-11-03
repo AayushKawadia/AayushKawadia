@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">💫 Aayush Kawadia <🤠/></h1>
+<h3 align="center">Coder and Enterprenur</h3>
 
-<!--
-**AayushKawadia/AayushKawadia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<a href="https://github.com/AayushKawadia">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=AayushKawadia&label=Profile%20views&color=0e75b6&style=flat" alt="AayushKawadiahttp://github-profile-summary-cards.vercel.app/api/cards/stats?username=AayushKawadia&theme=2077" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AayushKawadia&theme=2077" height="180em" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AayushKawadia&theme=2077" height="180em" /> -->
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AayushKawadia&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AayushKawadia&theme=2077" height="180em" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AayushKawadia&label=Profile%20views&color=0e75b6&style=flat" alt="AayushKawadia" /> </p>
