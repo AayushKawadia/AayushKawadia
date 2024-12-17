@@ -1,4 +1,4 @@
-<h1 align="center">Hello I am Aayush Kawadia <🤠/></h1>
+<h1 align="center">Hello I am Aayush Kawadia </h1>
 <h3 align="center">Coder and Entreprenur</h3>
 
 ## 💫 About Me:
